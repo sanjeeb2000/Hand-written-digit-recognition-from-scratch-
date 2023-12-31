@@ -1,4 +1,4 @@
-## Hand written digit recognition using Neural Network 
+## Hand written digit recognition using Deep Learning 
 
 This repository contains Python code for a simple neural network digit classifier implemented from scratch using Numpy. The neural network is trained on the MNIST dataset, a large database of handwritten digits. The model uses a shallow neural network architecture with one hidden layer and ReLU activation functions.
 
